@@ -19,7 +19,9 @@ This is raw material extraction, not content creation. Do not editorialize. Do n
 
 ## Extraction Sections
 
-Read back through the entire conversation. For each section, extract what's available. Some will be rich, some thin. Do not pad. Do not invent. If a section has nothing, write "Nothing surfaced in this conversation."
+Read back through the entire conversation. For each section, extract what's available. Some will be rich, some thin. Do not pad. Do not invent.
+
+If a section seems empty, do not immediately write "Nothing surfaced." Make one inference attempt first — look at adjacent decisions, implied constraints, or things that were notably absent from discussion. If you can offer a qualified inference, write it clearly marked: "Not discussed directly, but [inference] based on [evidence]." Only write "Nothing surfaced in this conversation" if even that attempt comes up empty.
 
 ### 1. Project Identity
 What is this project in one sentence? Distill from how it was discussed, not from a README.
@@ -55,7 +57,7 @@ What was unexpected. Libraries that didn't work. Problems simpler than feared. F
 Approaches tried and abandoned. Time spent on things that got thrown away.
 
 ### 10. The Vibe Coding Story
-How did the human-AI collaboration work on this project?
+How did the human-AI collaboration work on this project? This section is specifically about the relationship with AI tools — the dynamic between human intent and machine output.
 - What did AI help with? Where did it get in the way?
 - Where did the author have to teach the AI about intent?
 - How did the Claude-brainstorming, VS-Code-building workflow play out?
@@ -65,7 +67,9 @@ How did the human-AI collaboration work on this project?
 Bharat's background is animation, game development, 3D modeling. He thinks about products as environments that respond to the user. Look for moments where this shaped a decision: spatial thinking, pacing, environment design, player agency applied to product.
 
 ### 12. Friction Moments
-Small annoyances that became design decisions. Things that bothered him that wouldn't bother most people.
+Small annoyances in the design or build process that became design decisions. Things that bothered him that wouldn't bother most people — an API shape that felt wrong, a naming convention that grated, a default behavior that violated his instincts.
+
+This is about design and craft friction, not tool friction. Tool-related friction (AI losing context, IDE limitations) belongs in Section 10.
 
 ### 13. Taste References
 Cross-domain inspirations. References from games, films, music, physical products, architecture, other software. Capture even casual mentions.
@@ -85,13 +89,16 @@ Which of these beliefs came into play, and how?
 Only include principles that actually showed up. No labels without stories.
 
 ### 15. Honest Scope and Timeline
-How long did things take? What was planned vs. improvised? Do not inflate.
+How long did things take? What was planned vs. improvised? If not stated directly, estimate from conversation density and complexity. A rough sense of time investment — even qualified ("likely a weekend build based on scope") — is more useful than silence.
 
 ### 16. Open Threads
 What's unresolved. What comes next. Questions the project raised but didn't answer.
 
 ### 17. Raw Quotes
 Pull 5-15 direct quotes from the conversation. Things Bharat actually said. Prioritize: clarity about the project, strong opinions, honest admissions, observations that reveal how he thinks.
+
+For each quote, add a one-line note on why it matters for content. Not interpretation — just a flag. Example:
+- "remove the dashes. Make it normal human" — *Shows precision in naming what's wrong with a design, not just that something is wrong.*
 
 ### 18. What Else
 Your open field. What did you notice that doesn't fit above?
