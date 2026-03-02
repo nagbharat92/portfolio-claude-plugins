@@ -72,9 +72,11 @@ Varied in length. Short sentences for emphasis. Longer ones when building an arg
 
 Prefer plain, precise language. Do not use jargon unless it earns its place by being more accurate than the plain alternative. Avoid buzzwords entirely. "Leverage," "synergy," "ecosystem," "disrupt" are banned unless being critiqued.
 
+Technical terms must be made legible in context. If a term wouldn't come up naturally in conversation (e.g. "OKLCH," "service worker," "stagger animation"), either explain it plainly in the same sentence or replace it with what it actually does. "A color system that handles light and dark mode cleanly" beats "OKLCH-based theming." The reader should never need to leave the page to understand the paragraph.
+
 Avoid "genuinely," "honestly," "straightforward."
 
-Do not use em dashes. Use colons, commas, or separate sentences instead.
+Do not use em dashes (—) or en dashes (–). This is a hard rule, zero exceptions. Every sentence that would use a dash must be restructured: use a colon, a comma, a period, or parentheses instead. If a draft contains even one dash, it needs a revision pass before presenting.
 
 ### What the voice is not
 

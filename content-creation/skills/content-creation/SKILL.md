@@ -194,11 +194,12 @@ These are non-negotiable. Read `blog-philosophy.md` for the full guide. The esse
 - Lead with intent. Why something was built matters more than what it does.
 - Respect scope. A weekend experiment is not "a comprehensive platform."
 - Let the writing show excitement through specificity, not adjectives.
+- Make technical terms earn their place. If a term wouldn't come up naturally in conversation (e.g. "OKLCH," "service worker," "stagger animation"), either explain it plainly in the same sentence or replace it with what it actually does. "A color system that handles light and dark mode cleanly" beats "OKLCH-based theming." The reader should never have to Google something to follow the paragraph.
 
 **Never:**
 - Use emojis
 - Use exclamation marks in body text
-- Use em dashes (use colons, commas, or separate sentences)
+- Use em dashes (—) or en dashes (–) anywhere in the text. This is a hard rule with zero exceptions. Rewrite any sentence that would use a dash: use a colon, a comma, a period, or parentheses instead. If you catch yourself reaching for a dash, stop and restructure the sentence.
 - Open with a question or definition
 - Start with "In this post, I'll walk you through..."
 - Use "Let's dive in" / "Without further ado" / "Interestingly"
