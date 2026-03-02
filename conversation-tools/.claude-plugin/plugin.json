@@ -1,0 +1,8 @@
+{
+  "name": "conversation-tools",
+  "description": "Utilities for managing long conversations — handoffs, summaries, and context preservation",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bharat Nag"
+  }
+}

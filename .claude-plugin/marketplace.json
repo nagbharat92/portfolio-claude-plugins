@@ -11,6 +11,11 @@
       "name": "content-creation",
       "source": "./content-creation",
       "description": "Create portfolio case studies, blog posts, and project write-ups for bharatnag.dev"
+    },
+    {
+      "name": "conversation-tools",
+      "source": "./conversation-tools",
+      "description": "Utilities for managing long conversations — handoffs, summaries, and context preservation"
     }
   ]
 }
