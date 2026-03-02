@@ -1,0 +1,16 @@
+{
+  "name": "bharats-plugins",
+  "owner": {
+    "name": "Bharat Nag"
+  },
+  "metadata": {
+    "description": "Personal Cowork plugins for bharatnag.dev"
+  },
+  "plugins": [
+    {
+      "name": "content-creation",
+      "source": "./content-creation",
+      "description": "Create portfolio case studies, blog posts, and project write-ups for bharatnag.dev"
+    }
+  ]
+}

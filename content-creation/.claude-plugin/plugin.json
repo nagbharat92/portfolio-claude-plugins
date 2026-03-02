@@ -1,0 +1,8 @@
+{
+  "name": "content-creation",
+  "description": "Create portfolio case studies, blog posts, and project write-ups for bharatnag.dev",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bharat Nag"
+  }
+}
